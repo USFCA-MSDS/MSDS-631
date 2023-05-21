@@ -32,3 +32,4 @@ should have a solid theoerical and practical foundation of deep learning
 * Day 2:
   * Why neural networks can learn anything? [Youtube](https://www.youtube.com/watch?v=0QczhVg5HaI) 
   * The universal approximation theorem for neural network [visual](https://gaoxiangluo.github.io/2020/09/27/Visual-and-Rigorous-Proof-of-Universal-Approximation-Theorem-UAT/)
+  * Introduction to conv and pooling layers using Numpy [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_pooling_and_cov_layers_using_numpy.ipynb)
