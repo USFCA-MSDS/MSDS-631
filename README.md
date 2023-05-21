@@ -26,4 +26,4 @@ should have a solid theoerical and practical foundation of deep learning
   * Train your first NN [MLP and dense layers](https://github.com/USFCA-MSDS/MSDS-631/blob/main/MLP_and_Dense_layer.ipynb)
   * Additional : The gradient descent algorithm for dense layers [GD](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_gradient_decent_for_dense_layers_in_the_context_of_binary_classification%20(2).ipynb)
   * An introduction to CNNs [MNIST example](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AlexNet.ipynb)
-
+* Day 2:
