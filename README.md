@@ -18,16 +18,16 @@ should have a solid theoerical and practical foundation of deep learning
 # Syllabus
 
 * Day 1:
-  * Review1 [Linear Algebra for DL](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Linear_algebra_for_DL.ipynb)
-  * Review2 [Probability for DL](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_Probability_in_Python.ipynb)
-  * Fundamental algorithm [The gradient descent](https://github.com/USFCA-MSDS/MSDS-631/blob/main/the_gradient_descent_algorithm.ipynb)
-  * Pytorch [Introduction to Pytorch](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_pytorch-.ipynb)
+  * Review1 [Linear Algebra for DL](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Linear_algebra_for_DL.ipynb) (notebook)
+  * Review2 [Probability for DL](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_Probability_in_Python.ipynb) (notebook)
+  * Fundamental algorithm [The gradient descent](https://github.com/USFCA-MSDS/MSDS-631/blob/main/the_gradient_descent_algorithm.ipynb) (notebook)
+  * Pytorch [Introduction to Pytorch](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_pytorch-.ipynb) (notebook)
   * A visual introduction to NN [playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.93552&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
   * How does a DL model transform the input data to the final prediction ? [Youtube video](https://www.youtube.com/watch?v=UOvPeC8WOt8)
-  * The maximal likelihood estimation [MLE and its relations to other loss functions](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Maximum_likelihood_estimation%20(2).ipynb)
-  * Train your first NN [MLP and dense layers](https://github.com/USFCA-MSDS/MSDS-631/blob/main/MLP_and_Dense_layer.ipynb)
-  * Additional : The gradient descent algorithm for dense layers [GD](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_gradient_decent_for_dense_layers_in_the_context_of_binary_classification%20(2).ipynb)
-  * An introduction to CNNs [MNIST example](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AlexNet.ipynb)
+  * The maximal likelihood estimation [MLE and its relations to other loss functions](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Maximum_likelihood_estimation%20(2).ipynb) (notebook)
+  * Train your first NN [MLP and dense layers](https://github.com/USFCA-MSDS/MSDS-631/blob/main/MLP_and_Dense_layer.ipynb) (notebook)
+  * Additional : The gradient descent algorithm for dense layers [GD](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_gradient_decent_for_dense_layers_in_the_context_of_binary_classification%20(2).ipynb) (notebook)
+  * An introduction to CNNs [MNIST example](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AlexNet.ipynb) (notebook)
 * Day 2:
   * Why neural networks can learn anything? [Youtube](https://www.youtube.com/watch?v=0QczhVg5HaI) 
   * The universal approximation theorem for neural network [visual](https://gaoxiangluo.github.io/2020/09/27/Visual-and-Rigorous-Proof-of-Universal-Approximation-Theorem-UAT/)
