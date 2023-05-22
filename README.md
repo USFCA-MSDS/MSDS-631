@@ -58,15 +58,15 @@ This repository contains the final project for a deep learning course. The proje
 - [Creativity and Originality](#creativity-and-originality)
 - [Overall Presentation](#overall-presentation)
 
-## Introduction
+## Introduction : define the problem, goals and objectives (10%)
 
 In this project, we tackle a specific problem and provide an overview of the project goals and objectives.
 
-## Data
+## Data (10%)
 
 This section describes the dataset used in the project, including its type, source, and any preprocessing or special treatments applied.
 
-## Methods (30%)
+## Methods (15%)
 
 We discuss the deep learning approach employed to solve the problem. We justify why this approach is suitable and provide clear explanations, accompanied by code snippets and visualizations when necessary.
 
@@ -74,7 +74,7 @@ We discuss the deep learning approach employed to solve the problem. We justify 
 
 We present the experiments conducted using Jupiter Notebook. The findings are analyzed, and the performance of the deep learning model is evaluated. We may compare the results to relevant benchmarks or baselines and include visualizations and graphs to support the analysis.
 
-## Conclusion
+## Conclusion (5%)
 
 We summarize the key findings of the project, highlight the strengths and weaknesses of our approach, and suggest potential future improvements or directions for further exploration.
 
@@ -82,11 +82,11 @@ We summarize the key findings of the project, highlight the strengths and weakne
 
 The clarity, organization, and documentation of the Jupiter Notebook are evaluated. We ensure that the code is well-documented and easy to understand. Markdown cells are included to provide explanations, comments, and interpretations throughout the notebook.
 
-## Creativity and Originality (10%)
+## Creativity and Originality (5%)
 
 We assess the creativity and originality demonstrated in our approach and experiments.
 
-## Overall Presentation (10%)
+## Overall Presentation (5%)
 
 We evaluate the visual design, layout, and readability of the Jupiter Notebook project.
 
