@@ -24,6 +24,11 @@ INSTRUCTION FORMAT. Class runs for 1:50 hours 2 day/week. Instructor-student int
 
 TARDINESS. Please be on time for class. It is a big distraction if you come in late.
 
+Grade distribution :
+* Final Project 50 % (see below for details)
+* Homeworks 40 %
+* Attendance and particupation 6 %. Each class attendance contributes 0.5%.
+* Quiz 4 %
 
 # Syllabus
 
@@ -49,7 +54,7 @@ TARDINESS. Please be on time for class. It is a big distraction if you come in l
   * An introduction to CNNs [MNIST example](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AlexNet.ipynb) (notebook)
 
 
-# Homeworks
+# Homeworks (Total 40 %)
 
 * HW1 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW1)  Due date Monday May 29th
 * HW2 [file]()  Due date Sunday June 04
