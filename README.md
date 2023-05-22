@@ -45,7 +45,7 @@ should have a solid theoerical and practical foundation of deep learning
 
 # Final Project
 
-This repository contains the final project for a deep learning course. The project aims to address a specific problem using Jupiter Notebook as the platform for implementation and documentation.
+A major part of your grade will be your project which is Jupiter Notebook that demonsrate your work in details and a in high quality and organized manner. The project aims to address a specific problem using Jupiter Notebook as the platform for implementation and documentation.
 
 ## Table of Contents
 
