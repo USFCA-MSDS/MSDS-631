@@ -59,52 +59,42 @@ TARDINESS. Please be on time for class. It is a big distraction if you come in l
 
 # Final Project
 
-A major part of your grade will be your project which is Jupiter Notebook that demonsrate your work in details and a in high quality and organized manner. The project aims to address a specific problem using Jupiter Notebook as the platform for implementation and documentation.
+## Task1 : The Project Proposal, Data Selection
 
-## Table of Contents
+The Project Proposal, Data Selection, and Description component hold a weightage of 5% in determining your final course grade. This stage of the project requires you to submit a well-structured project proposal that encompasses several key elements: ​
 
-- [Introduction](#introduction)
-- [Data](#data)
-- [Methods](#methods)
-- [Experiments and Results](#experiments-and-results)
-- [Conclusion](#conclusion)
-- [Writing and Documentation](#writing-and-documentation)
-- [Creativity and Originality](#creativity-and-originality)
-- [Overall Presentation](#overall-presentation)
+### Project Proposal: 
 
-## Introduction : define the problem, goals and objectives (10%)
+You need to outline the objectives and goals of your project clearly. Explain the problem you intend to address using deep learning techniques and describe the overall approach you plan to take.​
 
-In this project, we tackle a specific problem and provide an overview of the project goals and objectives.
+ ### Data Selection: 
+ Selecting appropriate data is crucial for the success of your project. You should detail the sources from which you will obtain your data and explain why these sources are suitable for your project. Additionally, discuss any preprocessing steps that may be required.​
 
-## Data (10%)
+ ### Data Description: 
+ Provide a comprehensive description of the data you will be working with. This includes information about the data format, size, attributes, and any inherent challenges or limitations associated with the data. Clearly state how the selected data aligns with your project objectives.​
 
-This section describes the dataset used in the project, including its type, source, and any preprocessing or special treatments applied.
 
-## Methods (15%)
+## Task2 : Jupyter notebook 
 
-We discuss the deep learning approach employed to solve the problem. We justify why this approach is suitable and provide clear explanations, accompanied by code snippets and visualizations when necessary.
+This project requires you to create a comprehensive and well-structured Jupyter notebook that effectively presents your work. The notebook should include the following components:
 
-## Experiments and Results (40%)
+### Data Preprocessing (5%)
+Describe the methods and steps employed to preprocess and prepare the data for your deep learning model. This may involve tasks such as data cleaning, feature engineering, data augmentation, or any other relevant preprocessing techniques.
 
-We present the experiments conducted using Jupiter Notebook. The findings are analyzed, and the performance of the deep learning model is evaluated. We may compare the results to relevant benchmarks or baselines and include visualizations and graphs to support the analysis.
+### Model Implementation (10%)
+Detail the architecture and implementation details of your deep learning model. Include code snippets, well-commented code cells, or references to external code repositories if applicable. Explain the rationale behind your model choices and any modifications or enhancements you made to existing models.
 
-## Conclusion (5%)
+### Methods (5%)
+Provide a clear description of the methodologies used in your project. Explain the algorithms, techniques, or frameworks employed, ensuring that your approach is well-documented and reproducible.
 
-We summarize the key findings of the project, highlight the strengths and weaknesses of our approach, and suggest potential future improvements or directions for further exploration.
+### Experiments and Results (10%)
+Present the experiments conducted during your project and report the obtained results. Include relevant performance metrics, accuracy scores, loss curves, or any other measurements used to evaluate your model's performance. Use tables, graphs, or visualizations to effectively communicate your experimental findings.
 
-## Writing and Documentation (10%)
+### Conclusion and Future work (5%)
+Summarize the key findings and insights derived from your experiments and results. Discuss the implications of your results in the context of your project goals and objectives. Reflect on the strengths and limitations of your approach and provide suggestions for further improvement.
 
-The clarity, organization, and documentation of the Jupiter Notebook are evaluated. We ensure that the code is well-documented and easy to understand. Markdown cells are included to provide explanations, comments, and interpretations throughout the notebook.
+Please ensure that your Jupyter notebook is well-documented and organized, making it easy for others to understand and reproduce your work. The total grade for the project is out of 30% of your final course grade.
 
-## Creativity and Originality (5%)
-
-We assess the creativity and originality demonstrated in our approach and experiments.
-
-## Overall Presentation (5%)
-
-We evaluate the visual design, layout, and readability of the Jupiter Notebook project.
-
-Note: This repository focuses on showcasing the deep learning skills of the project and providing a well-documented Jupiter Notebook for evaluation.
 
 
 
