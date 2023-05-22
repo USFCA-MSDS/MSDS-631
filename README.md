@@ -14,6 +14,16 @@ practical aspects are all emphasized throughout the course and by the end of the
 should have a solid theoerical and practical foundation of deep learning
 
 
+# Class details
+INSTRUCTOR. Mustafa Hajij.
+
+Lectures are Tuesday and Friday between 10am and 12pm
+
+
+INSTRUCTION FORMAT. Class runs for 1:50 hours 2 day/week. Instructor-student interaction during lecture is encouraged and we'll mix in mini-exercises, final project and attendance. All programming will be done in the Python 3 programming language, unless otherwise specified.
+
+TARDINESS. Please be on time for class. It is a big distraction if you come in late.
+
 
 # Syllabus
 
