@@ -1,0 +1,17 @@
+# Final Project
+
+For your Jupiter Notebook project submission, there is no specific requirement for the length of your report. You will be using Jupiter Notebook as the platform for your project, and it will serve as your project documentation. In this project, you are expected to demonstrate your deep learning skills and showcase the results achieved using a Jupiter Notebook.
+
+To help you structure your report, the following is a suggested format and rubric for evaluation:
+
+* Title, Author(s)
+* Introduction: Describe the problem you are addressing and provide an overview of your project.
+* Data: Describe the dataset you are working with, including its type, source, and any preprocessing or special treatments applied.
+* Methods (30%): Discuss the deep learning approach you employed to solve the problem. Justify why your approach is suitable and highlight any alternative approaches considered. Provide clear explanations, accompanied by code snippets and visualizations if necessary.
+* Experiments and Results (40%): Discuss the experiments you conducted using Jupiter Notebook. Present your findings and analyze the results obtained. Evaluate the performance of your deep learning model, and compare it to relevant benchmarks or baselines, if available. Include visualizations, graphs, or any other appropriate visual aids to support your analysis.
+* Conclusion: Summarize your key findings, highlight the strengths and weaknesses of your approach, and suggest future improvements or directions for further exploration.
+* Writing and Documentation (10%): Evaluate the clarity, organization, and documentation of your Jupiter Notebook. Ensure that your code is well-documented and easy to understand. Consider including markdown cells to provide explanations, comments, and interpretations throughout your notebook.
+* Creativity and Originality (10%): Assess the creativity and originality demonstrated in your approach and experiments.
+* Overall Presentation (10%): Evaluate the overall presentation of your project, including the visual design, layout, and readability of your Jupiter Notebook.
+
+Please note that in this project, there is no requirement for a separate section on related work. Instead, the weightage allocated to related work can be incorporated into the evaluation of your experiments and results section. Focus on demonstrating your deep learning skills, presenting your experiments and findings, and providing a well-documented Jupiter Notebook for evaluation.
