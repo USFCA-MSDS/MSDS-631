@@ -37,7 +37,7 @@ Note material Additional does not optional. These are material that will not be 
 * Day 1:
   * Review1 [Linear Algebra for DL](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Linear_algebra_for_DL.ipynb) (notebook)
   * Review2 [Probability for DL](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_Probability_in_Python.ipynb) (notebook)
-  * Review3 [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/PDFs/MathBackground-.pdf)
+  * Review3 [Some basic math concepts](https://github.com/USFCA-MSDS/MSDS-631/blob/main/PDFs/MathBackground-.pdf)
   * Review4  [MLE](https://github.com/USFCA-MSDS/MSDS-631/blob/main/PDFs/MaxLike%20Estimation_MLE.pdf)
   * Lecture Slide [An introduction to NNs](https://github.com/USFCA-MSDS/MSDS-631/blob/main/PDFs/An%20Introduction%20to%20NNs-.pdf)
   * Fundamental algorithm [The gradient descent](https://github.com/USFCA-MSDS/MSDS-631/blob/main/the_gradient_descent_algorithm.ipynb) (notebook)
