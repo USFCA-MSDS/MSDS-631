@@ -57,9 +57,9 @@ TARDINESS. Please be on time for class. It is a big distraction if you come in l
 * HW4 [file]()  Due date Sunday June 25
 
 
-# Final Project
+# Final Project (Total 50 %)
 
-## Task1 : The Project Proposal, Data Selection
+## Task1 : The Project Proposal, Data Selection (Total 5 %)
 
 The Project Proposal, Data Selection, and Description component hold a weightage of 5% in determining your final course grade. This stage of the project requires you to submit a well-structured project proposal that encompasses several key elements: ​
 
@@ -74,7 +74,7 @@ You need to outline the objectives and goals of your project clearly. Explain th
  Provide a comprehensive description of the data you will be working with. This includes information about the data format, size, attributes, and any inherent challenges or limitations associated with the data. Clearly state how the selected data aligns with your project objectives.​
 
 
-## Task2 : Jupyter notebook 
+## Task2 : Jupyter notebook   (Total 25 %)
 
 This project requires you to create a comprehensive and well-structured Jupyter notebook that effectively presents your work. The notebook should include the following components:
 
@@ -96,6 +96,9 @@ Summarize the key findings and insights derived from your experiments and result
 Please ensure that your Jupyter notebook is well-documented and organized, making it easy for others to understand and reproduce your work. The total grade for the project is out of 30% of your final course grade.
 
 
+## Task3 : Recorded presentation (10%)
+
+The recorded presentation contributes 10% to your overall course grade. You will be required to deliver a presentation, recorded in video format, where you showcase and explain your project, including its objectives, methodology, results, and conclusions. This should not exceed 10 minutes and should be presented  by all team members.​
 
 
 # Deep Learning Project Ideas
