@@ -39,8 +39,12 @@ should have a solid theoerical and practical foundation of deep learning
   * An introduction to CNNs [MNIST example](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AlexNet.ipynb) (notebook)
 
 
+# Homeworks
 
-
+* HW1 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW1)  Due date Monday May 29th
+* HW2 [file]()  Due date Sunday June 04
+* HW3 [file]()  Due date Sunday June 11
+* HW4 [file]()  Due date Sunday June 25
 
 
 # Final Project
