@@ -1,0 +1,17 @@
+# Homework Assignment: PyTorch Basics and Neural Network Training
+
+# Exercise 1: Tensor Operations
+
+# Problem:
+# a) Create a PyTorch tensor 'x' of shape (3, 4) with random values between 0 and 1.
+# b) Create a tensor 'y' of shape (4, 2) with all elements initialized to 5.
+# c) Multiply tensor 'x' with tensor 'y' and store the result in tensor 'z'.
+# d) Calculate the mean value of tensor 'z' along the columns (axis=0).
+
+# Exercise 2: Neural Network Training
+
+# Problem:
+# a) Create a simple feed-forward neural network with 2 input units, 3 hidden units, and 1 output unit.
+# b) Define the appropriate activation function for the hidden layer.
+# c) Generate random input data 'inputs' of shape (5, 2) and random target data 'targets' of shape (5, 1).
+# d) Implement a training loop to train the neural network for 100 epochs using the Mean Squared Error (MSE) loss.
