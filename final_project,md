@@ -1,17 +1,48 @@
 # Final Project
 
-For your Jupiter Notebook project submission, there is no specific requirement for the length of your report. You will be using Jupiter Notebook as the platform for your project, and it will serve as your project documentation. In this project, you are expected to demonstrate your deep learning skills and showcase the results achieved using a Jupiter Notebook.
+This repository contains the final project for a deep learning course. The project aims to address a specific problem using Jupiter Notebook as the platform for implementation and documentation.
 
-To help you structure your report, the following is a suggested format and rubric for evaluation:
+## Table of Contents
 
-* Title, Author(s)
-* Introduction: Describe the problem you are addressing and provide an overview of your project.
-* Data: Describe the dataset you are working with, including its type, source, and any preprocessing or special treatments applied.
-* Methods (30%): Discuss the deep learning approach you employed to solve the problem. Justify why your approach is suitable and highlight any alternative approaches considered. Provide clear explanations, accompanied by code snippets and visualizations if necessary.
-* Experiments and Results (40%): Discuss the experiments you conducted using Jupiter Notebook. Present your findings and analyze the results obtained. Evaluate the performance of your deep learning model, and compare it to relevant benchmarks or baselines, if available. Include visualizations, graphs, or any other appropriate visual aids to support your analysis.
-* Conclusion: Summarize your key findings, highlight the strengths and weaknesses of your approach, and suggest future improvements or directions for further exploration.
-* Writing and Documentation (10%): Evaluate the clarity, organization, and documentation of your Jupiter Notebook. Ensure that your code is well-documented and easy to understand. Consider including markdown cells to provide explanations, comments, and interpretations throughout your notebook.
-* Creativity and Originality (10%): Assess the creativity and originality demonstrated in your approach and experiments.
-* Overall Presentation (10%): Evaluate the overall presentation of your project, including the visual design, layout, and readability of your Jupiter Notebook.
+- [Introduction](#introduction)
+- [Data](#data)
+- [Methods](#methods)
+- [Experiments and Results](#experiments-and-results)
+- [Conclusion](#conclusion)
+- [Writing and Documentation](#writing-and-documentation)
+- [Creativity and Originality](#creativity-and-originality)
+- [Overall Presentation](#overall-presentation)
 
-Please note that in this project, there is no requirement for a separate section on related work. Instead, the weightage allocated to related work can be incorporated into the evaluation of your experiments and results section. Focus on demonstrating your deep learning skills, presenting your experiments and findings, and providing a well-documented Jupiter Notebook for evaluation.
+## Introduction
+
+In this project, we tackle a specific problem and provide an overview of the project goals and objectives.
+
+## Data
+
+This section describes the dataset used in the project, including its type, source, and any preprocessing or special treatments applied.
+
+## Methods
+
+We discuss the deep learning approach employed to solve the problem. We justify why this approach is suitable and provide clear explanations, accompanied by code snippets and visualizations when necessary.
+
+## Experiments and Results
+
+We present the experiments conducted using Jupiter Notebook. The findings are analyzed, and the performance of the deep learning model is evaluated. We may compare the results to relevant benchmarks or baselines and include visualizations and graphs to support the analysis.
+
+## Conclusion
+
+We summarize the key findings of the project, highlight the strengths and weaknesses of our approach, and suggest potential future improvements or directions for further exploration.
+
+## Writing and Documentation
+
+The clarity, organization, and documentation of the Jupiter Notebook are evaluated. We ensure that the code is well-documented and easy to understand. Markdown cells are included to provide explanations, comments, and interpretations throughout the notebook.
+
+## Creativity and Originality
+
+We assess the creativity and originality demonstrated in our approach and experiments.
+
+## Overall Presentation
+
+We evaluate the visual design, layout, and readability of the Jupiter Notebook project.
+
+Note: This repository focuses on showcasing the deep learning skills of the project and providing a well-documented Jupiter Notebook for evaluation.
