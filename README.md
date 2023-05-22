@@ -42,6 +42,7 @@ should have a solid theoerical and practical foundation of deep learning
 
 
 
+
 # Final Project
 
 This repository contains the final project for a deep learning course. The project aims to address a specific problem using Jupiter Notebook as the platform for implementation and documentation.
@@ -65,11 +66,11 @@ In this project, we tackle a specific problem and provide an overview of the pro
 
 This section describes the dataset used in the project, including its type, source, and any preprocessing or special treatments applied.
 
-## Methods
+## Methods (30%)
 
 We discuss the deep learning approach employed to solve the problem. We justify why this approach is suitable and provide clear explanations, accompanied by code snippets and visualizations when necessary.
 
-## Experiments and Results
+## Experiments and Results (40%)
 
 We present the experiments conducted using Jupiter Notebook. The findings are analyzed, and the performance of the deep learning model is evaluated. We may compare the results to relevant benchmarks or baselines and include visualizations and graphs to support the analysis.
 
@@ -77,18 +78,19 @@ We present the experiments conducted using Jupiter Notebook. The findings are an
 
 We summarize the key findings of the project, highlight the strengths and weaknesses of our approach, and suggest potential future improvements or directions for further exploration.
 
-## Writing and Documentation
+## Writing and Documentation (10%)
 
 The clarity, organization, and documentation of the Jupiter Notebook are evaluated. We ensure that the code is well-documented and easy to understand. Markdown cells are included to provide explanations, comments, and interpretations throughout the notebook.
 
-## Creativity and Originality
+## Creativity and Originality (10%)
 
 We assess the creativity and originality demonstrated in our approach and experiments.
 
-## Overall Presentation
+## Overall Presentation (10%)
 
 We evaluate the visual design, layout, and readability of the Jupiter Notebook project.
 
 Note: This repository focuses on showcasing the deep learning skills of the project and providing a well-documented Jupiter Notebook for evaluation.
+
 
 
