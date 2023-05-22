@@ -15,3 +15,10 @@
 # b) Define the appropriate activation function for the hidden layer.
 # c) Generate random input data 'inputs' of shape (5, 2) and random target data 'targets' of shape (5, 1).
 # d) Implement a training loop to train the neural network for 100 epochs using the Mean Squared Error (MSE) loss.
+
+# Exercise 3:
+# In gradient descent, what is the role of the learning rate parameter? How does it impact the convergence of the optimization process?
+
+# Exercise 4:
+# In stochastic gradient descent (SGD), what is the key difference compared to traditional gradient descent? 
+  How does the use of mini-batches affect the optimization process in terms of efficiency and convergence?
