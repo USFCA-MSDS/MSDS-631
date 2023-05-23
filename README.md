@@ -50,6 +50,7 @@ Note material Additional does not optional. These are material that will not be 
   * The maximal likelihood estimation [MLE and its relations to other loss functions](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Maximum_likelihood_estimation%20(2).ipynb) (notebook)
   * Additional : The gradient descent algorithm for dense layers [GD](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_gradient_decent_for_dense_layers_in_the_context_of_binary_classification%20(2).ipynb) (notebook)
   * Additional : Stochastic Gradient Decent [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Stochastic_Dradient_Descent.ipynb)
+  * Interview Questions [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Some_interview_Questions_related_to_lecture_1.ipynb)
 * Day 2:
   * Lecture 2 Slide [Neural Network as a classifier](https://github.com/USFCA-MSDS/MSDS-631/blob/main/PDFs/networks%20as%20classifiers.pdf)
   * An illustration of the sigmoid function [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/sigmoid_and_binary_classification.ipynb)
