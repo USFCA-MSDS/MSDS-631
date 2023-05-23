@@ -58,6 +58,11 @@ Note material Additional does not optional. These are material that will not be 
   * Introduction to conv and pooling layers using Numpy [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_pooling_and_cov_layers_using_numpy.ipynb)
   * An introduction to CNNs [MNIST example](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AlexNet.ipynb) (notebook)
 
+# Quiz (Total 4 %)
+In class quiz on June 16.
+
+# Attendance and particupation (Total 6 %)
+Each class is 0.5 % Total # of class = 12.
 
 # Homeworks (Total 40 %)
 
