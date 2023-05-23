@@ -55,6 +55,7 @@ Note material Additional does not optional. These are material that will not be 
   * An illustration of the sigmoid function [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/sigmoid_and_binary_classification.ipynb)
   * Why neural networks can learn anything? [Youtube](https://www.youtube.com/watch?v=0QczhVg5HaI) 
   * The universal approximation theorem for neural network [visual](https://gaoxiangluo.github.io/2020/09/27/Visual-and-Rigorous-Proof-of-Universal-Approximation-Theorem-UAT/)
+  * A video illustration of the universal approximation theorem of NNs [Youtube](https://www.youtube.com/watch?v=FBpPjjhJGhk)
   * A minimal introduction to automatic differentiation [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_auto_diff_in_pytorch.ipynb)
   * Introduction to conv and pooling layers using Numpy [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_pooling_and_cov_layers_using_numpy.ipynb)
   * An introduction to CNNs [MNIST example](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AlexNet.ipynb) (notebook)
