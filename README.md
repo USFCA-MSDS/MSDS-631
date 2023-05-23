@@ -51,6 +51,7 @@ Note material Additional does not optional. These are material that will not be 
   * Additional : The gradient descent algorithm for dense layers [GD](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_gradient_decent_for_dense_layers_in_the_context_of_binary_classification%20(2).ipynb) (notebook)
   * Additional : Stochastic Gradient Decent [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Stochastic_Dradient_Descent.ipynb)
 * Day 2:
+  * Neural Network as a classifier [PDF]()
   * Why neural networks can learn anything? [Youtube](https://www.youtube.com/watch?v=0QczhVg5HaI) 
   * The universal approximation theorem for neural network [visual](https://gaoxiangluo.github.io/2020/09/27/Visual-and-Rigorous-Proof-of-Universal-Approximation-Theorem-UAT/)
   * A minimal introduction to automatic differentiation [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_auto_diff_in_pytorch.ipynb)
