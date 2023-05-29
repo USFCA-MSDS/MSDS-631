@@ -59,9 +59,10 @@ Note material Additional does not optional. These are material that will not be 
   * The universal approximation theorem for neural network [visual](https://gaoxiangluo.github.io/2020/09/27/Visual-and-Rigorous-Proof-of-Universal-Approximation-Theorem-UAT/)
   * A video illustration of the universal approximation theorem of NNs [Youtube](https://www.youtube.com/watch?v=FBpPjjhJGhk)
   * A minimal introduction to automatic differentiation [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_auto_diff_in_pytorch.ipynb)
+* Day 3:
+  *  Lecture 3 Slide [Conv networks](https://github.com/USFCA-MSDS/MSDS-631/blob/main/conv_nets.pdf)  
   * Introduction to conv and pooling layers using Numpy [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_pooling_and_cov_layers_using_numpy.ipynb)
   * An introduction to CNNs [MNIST example](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AlexNet.ipynb) (notebook)
-
 # Quiz (Total 4 %)
 In class quiz on June 16.
 
