@@ -63,6 +63,7 @@ Note material Additional does not optional. These are material that will not be 
   *  Lecture 3 Slide [Conv networks](https://github.com/USFCA-MSDS/MSDS-631/blob/main/conv_nets.pdf)  
   * Introduction to conv and pooling layers using Numpy [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_pooling_and_cov_layers_using_numpy.ipynb)
   * An introduction to CNNs [MNIST example](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AlexNet.ipynb) (notebook)
+  * Resnets and inception modules [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/advanced_layers.ipynb)
 # Quiz (Total 4 %)
 In class quiz on June 16.
 
