@@ -47,7 +47,6 @@ Note material Additional does not optional. These are material that will not be 
   * What is a neural network ? [YouTube](https://www.youtube.com/watch?v=aircAruvnKk)
   * A minimal implementation of a NN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Minimal_implementation_of_NN.ipynb)
   * Train your first NN [MLP and dense layers](https://github.com/USFCA-MSDS/MSDS-631/blob/main/MLP_and_Dense_layer.ipynb) (notebook)
-  * The maximal likelihood estimation [MLE and its relations to other loss functions](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Maximum_likelihood_estimation%20(2).ipynb) (notebook)
   * Additional : The gradient descent algorithm for dense layers [GD](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_gradient_decent_for_dense_layers_in_the_context_of_binary_classification%20(2).ipynb) (notebook)
   * Additional : Stochastic Gradient Decent [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Stochastic_Dradient_Descent.ipynb)
   * Interview Questions [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Some_interview_Questions_related_to_lecture_1.ipynb)
@@ -64,6 +63,10 @@ Note material Additional does not optional. These are material that will not be 
   * Introduction to conv and pooling layers using Numpy [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_pooling_and_cov_layers_using_numpy.ipynb)
   * An introduction to CNNs [MNIST example](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AlexNet.ipynb) (notebook)
   * Resnets and inception modules [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/advanced_layers.ipynb)
+* Day 4:
+  * MLE review  [MLE](https://github.com/USFCA-MSDS/MSDS-631/blob/main/PDFs/MaxLike%20Estimation_MLE.pdf)
+  * The maximal likelihood estimation [MLE and its relations to other loss functions](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Maximum_likelihood_estimation%20(2).ipynb) (notebook)
+  
 # Quiz (Total 4 %)
 In class quiz on June 16.
 
