@@ -78,9 +78,9 @@ Each class is 0.5 % Total # of class = 12.
 # Homeworks (Total 40 %)
 
 * HW1 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW1)  Due date Monday May 29th
-* HW2 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW2)  Due date Sunday June 04
-* HW3 [file]()  Due date Sunday June 11
-* HW4 [file]()  Due date Sunday June 25
+* HW2 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW2)  Due date Monday June 05 at 11:59PM
+* HW3 [file]()  Due date Monday June 12 at 11:59PM
+* HW4 [file]()  Due date Monday June 26 at 11:59PM
 
 
 # Final Project (Total 50 %)
