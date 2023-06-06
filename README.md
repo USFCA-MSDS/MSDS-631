@@ -69,6 +69,7 @@ Note material Additional does not optional. These are material that will not be 
   * The maximal likelihood estimation [MLE and its relations to other loss functions](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Maximum_likelihood_estimation%20(2).ipynb) (notebook)
   *  Lecture Slide 4 :  [Probabilistic Deep Learning](https://github.com/USFCA-MSDS/MSDS-631/blob/main/P_DL.pdf)
 * Day 5:
+  *  Lecture 5 Word2Vec [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/word2vec.pdf)
   *  Word2Vec [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/word2vec_simplified.ipynb)
   *  Gensim Word2Vec [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/gensim_word2vec.ipynb)
   *  Very Simple Language Model [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/simple_language-model.ipynb)
