@@ -73,7 +73,7 @@ Note material Additional does not optional. These are material that will not be 
   *  Word2Vec [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/word2vec_simplified.ipynb)
   *  Gensim Word2Vec [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/gensim_word2vec.ipynb)
   *  Very Simple Language Model [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/simple_language-model.ipynb)
-  *  
+  *  Minimal RNN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/minimal_RNN_.ipynb)
   
 # Quiz (Total 4 %)
 In class quiz on June 16.
