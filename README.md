@@ -70,7 +70,7 @@ Note material Additional does not optional. These are material that will not be 
   *  Lecture Slide 4 :  [Probabilistic Deep Learning](https://github.com/USFCA-MSDS/MSDS-631/blob/main/P_DL.pdf)
 * Day 5:
   *  Word2Vec [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/word2vec_simplified.ipynb)
-  *  Very Simple Language Model [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Simple_language_model.ipynb)
+  *  Very Simple Language Model [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/simple_language-model.ipynb)
   
 # Quiz (Total 4 %)
 In class quiz on June 16.
