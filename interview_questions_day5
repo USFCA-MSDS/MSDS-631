@@ -1,0 +1,16 @@
+"""
+Interview Questions about Basic Language Models
+"""
+
+questions = [
+    "What is the purpose of a language model in natural language processing?",
+    "Explain the concept of the distributional hypothesis in the context of language models.",
+    "What is a simple language model, and how does it assign probabilities to sequences of words?",
+    "Can you describe the architecture of a basic neural network language model?",
+    "What are the input and output of a simple language model?",
+    "How does a simple language model capture the context of words?",
+    "What is the role of the word-word co-occurrence matrix in a simple language model?",
+    "Explain the training process of a simple language model.",
+    "What is the purpose of the softmax function in a simple language model?",
+    "Can you explain the concept of word embeddings and their significance in language modeling?"
+]
