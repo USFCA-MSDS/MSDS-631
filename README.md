@@ -87,13 +87,13 @@ Each class is 0.5 % Total # of class = 12.
 
 * HW1 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW1)  Due date Monday May 29th
 * HW2 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW2)  Due date Monday June 05 at 11:59PM
-* HW3 [file]()  Due date Monday June 12 at 11:59PM
+* HW3 [file]()  Due date Wed June 14 at 11:59PM
 * HW4 [file]()  Due date Monday June 26 at 11:59PM
 
 
 # Final Project (Total 50 %)
 
-## Task1 : The Project Proposal, Data Selection (Total 5 %) (Due 9th of June)
+## Task1 : The Project Proposal, Data Selection (Total 5 %) (Due 11th of June)
 
 The Project Proposal, Data Selection, and Description component hold a weightage of 5% in determining your final course grade. This stage of the project requires you to submit a well-structured project proposal that encompasses several key elements: ​
 
