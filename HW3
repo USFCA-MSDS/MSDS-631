@@ -1,0 +1,7 @@
+questions = [
+    "What is Word2Vec and how does it work?",
+    "What is the purpose of training a Word2Vec model?",
+    "Explain the concept of Maximum Likelihood Estimation (MLE) and its application in Word2Vec.",
+    "How does Maximum Likelihood Estimation (MLE) generalize classification and regression losses?",
+    "Letter2Vec is a variation of Word2Vec that operates on individual letters instead of words. How might the Letter2Vec model be useful in certain applications, and what challenges could arise when applying it to large-scale text data?"
+]
