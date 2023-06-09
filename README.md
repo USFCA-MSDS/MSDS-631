@@ -77,7 +77,8 @@ Note material Additional does not optional. These are material that will not be 
   *  Minimal RNN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/minimal_RNN_.ipynb)
   *  Interview Questions [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/interview_questions_day5)
 * Day 6:
-  * nn.Embedding [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/nn_Embedding.ipynb)  
+  * nn.Embedding [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/nn_Embedding.ipynb)
+  * Cross Entropy in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)  
   * Transformers [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Transformers.ipynb)
   * Lecture 6 Transformers [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/transformers.pdf)
   
