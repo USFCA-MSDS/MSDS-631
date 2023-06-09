@@ -79,6 +79,7 @@ Note material Additional does not optional. These are material that will not be 
 * Day 6:
   * nn.Embedding [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/nn_Embedding.ipynb)  
   * Transformers [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Transformers.ipynb)
+  * Lecture 6 Transformers [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/transformers.pdf)
   
 # Quiz (Total 4 %)
 In class quiz on June 16.
