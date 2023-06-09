@@ -76,6 +76,8 @@ Note material Additional does not optional. These are material that will not be 
   *  Very Simple Language Model [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/simple_language-model.ipynb)
   *  Minimal RNN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/minimal_RNN_.ipynb)
   *  Interview Questions [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/interview_questions_day5)
+* Day 6:
+  * nn.Embedding [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/nn_Embedding.ipynb)  
   
 # Quiz (Total 4 %)
 In class quiz on June 16.
