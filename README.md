@@ -80,6 +80,7 @@ Note material Additional does not optional. These are material that will not be 
   * nn.Embedding [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/nn_Embedding.ipynb)
   * Cross Entropy in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)  
   * Transformers [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Transformers.ipynb)
+  * Bert [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Bert.ipynb)
   * Lecture 6 Transformers [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/transformers.pdf)
   
 # Quiz (Total 4 %)
