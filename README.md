@@ -82,6 +82,7 @@ Note material Additional does not optional. These are material that will not be 
   * Transformers [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Transformers.ipynb)
   * Bert [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Bert.ipynb)
   * Lecture 6 Transformers [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/transformers.pdf)
+  * A great blog article about transformers [article](http://jalammar.github.io/illustrated-transformer/)
  
  
 Additional
