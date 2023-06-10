@@ -82,6 +82,10 @@ Note material Additional does not optional. These are material that will not be 
   * Transformers [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Transformers.ipynb)
   * Bert [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Bert.ipynb)
   * Lecture 6 Transformers [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/transformers.pdf)
+ 
+ 
+Additional
+  * Common loss functions in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/common_loss_functions_in_pytorch.ipynb)
   
 # Quiz (Total 4 %)
 In class quiz on June 16.
