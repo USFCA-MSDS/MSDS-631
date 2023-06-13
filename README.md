@@ -84,6 +84,10 @@ Note material Additional does not optional. These are material that will not be 
   * Bert [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Bert.ipynb)
   * Lecture 6 Transformers [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/transformers.pdf)
   * A great blog article about transformers [article](http://jalammar.github.io/illustrated-transformer/)
+
+* Day 7:
+  * Lecture 6 Introduction to LLM [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_large_language_models.pdf)
+  * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb)  
  
  
 Additional
