@@ -1,0 +1,60 @@
+questions = [
+    # Basics of Neural Networks
+    "1. What is a neural network and how does it work?",
+    "2. How do you define the input and output layers of a neural network?",
+    "3. What are the weights and biases in a neural network, and how/why are they used?",
+    
+    # Universal Approximation Theorem
+    "4. Can you explain the concept of the universal approximation theorem in relation to neural networks?",
+    "5. What are the implications of the universal approximation theorem in practical deep learning?",
+    
+    # Automatic Differentiation
+    "6. How does automatic differentiation work and why is it important in deep learning?",
+    "7. What are the advantages of using automatic differentiation libraries like TensorFlow and PyTorch?",
+    
+    # Basics of Language Models
+    "8. What is a language model and what is its purpose in natural language processing?",
+    "9. How do language models generate text or predict the next word in a sequence?",
+    
+    # Basics of Convolutional Networks
+    "10. What are convolutional networks primarily used for in deep learning?",
+    "11. How do convolutional layers and filters contribute to the performance of convolutional networks?" Explain inductive bias in CNNs,
+    
+    # Basics of Dense Layers
+    "12. What are dense layers and what is their role in a neural network architecture?", What kind of data usually used with dense layers?
+    "13. Can you explain the process of forward propagation in a neural network with dense layers?",
+    
+    # Basics of PyTorch
+    "14. What is PyTorch and what are its main advantages for deep learning projects?",
+    "15. How do you define and train a neural network in PyTorch?",
+    
+    # Word2Vec
+    "16. What is the purpose of word2vec and how does it relate to natural language processing?",
+    "17. How does word2vec represent words as dense vectors?",
+    
+    # Gradient Descent
+    "18. What is gradient descent and how is it used to train neural networks?",
+    "19. Explain the difference between batch gradient descent and stochastic gradient descent (SGD).",
+    
+    # Cross Entropy
+    "20. What is cross-entropy loss and why is it commonly used in classification tasks?",
+    "21. How is cross-entropy loss calculated and minimized during training?",
+    
+    # Super Resolution
+    "22. What is super resolution and how is it achieved using deep learning?",
+    "23. Why the archtecure is a super resolution NNs is typically fully convolutional?,
+    
+    # Additional Questions
+    "24. Why do we have activation functions in neural networks?",
+    "25. What are the differences between shallow and deep neural networks?",
+    "26. How can you prevent overfitting in a neural network?",
+    "27. Why stacking muliple layers in DL is useful to learn complicated functions?",
+    "28. Explain pooling, why do we use it?",
+    "29. How can you handle vanishing gradients in deep learning--give one method?",
+    "30. Explain the concept of transfer learning and its application in deep learning.",
+    "31. How does max pooling contribute to the performance of convolutional networks?",
+    "32. Can you describe skip-gram models in word2vec?",
+    "33. What is the purpose of padding in convolutional networks?",
+    "34. How do you handle imbalanced datasets in deep learning?",
+    "35. What is the role of learning rate in training a neural network?",
+]
