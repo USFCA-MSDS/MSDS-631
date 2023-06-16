@@ -79,18 +79,19 @@ Note material Additional does not optional. These are material that will not be 
 * Day 6:
   * nn.Embedding [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/nn_Embedding.ipynb)
   * nn.Embedding from scratch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/nn_Embedding_in_details.ipynb)
-  * Cross Entropy in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)  
   * Transformers [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Transformers.ipynb)
   * Bert [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Bert.ipynb)
   * Lecture 6 Transformers [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/transformers.pdf)
   * A great blog article about transformers [article](http://jalammar.github.io/illustrated-transformer/)
 
 * Day 7:
+  * Review Cross Entropy in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)  
   * Lecture 6 Introduction to LLM [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_large_language_models.pdf)
   * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb)
  
  * Day 8:
-   * Random Variable Generation [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/RandomVariableGeneration.ipynb)    
+   * Random Variable Generation [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/RandomVariableGeneration.ipynb)
+   * Quiz questions [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/interview/exam_questions.txt)
  
  
 Additional
