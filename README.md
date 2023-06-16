@@ -90,7 +90,7 @@ Note material Additional does not optional. These are material that will not be 
   * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb)
  
  * Day 8:
-   * Random Variable Generation [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/RandomVariableGeneration.ipynb)
+   * Random Variable Generation (and how to generate samples from known distributions) [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/RandomVariableGeneration.ipynb)
    * Quiz questions [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/interview/exam_questions.txt)
  
  
