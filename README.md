@@ -87,7 +87,10 @@ Note material Additional does not optional. These are material that will not be 
 
 * Day 7:
   * Lecture 6 Introduction to LLM [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_large_language_models.pdf)
-  * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb)  
+  * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb)
+ 
+ * Day 8:
+  * Random Variable Generation [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/RandomVariableGeneration.ipynb)    
  
  
 Additional
