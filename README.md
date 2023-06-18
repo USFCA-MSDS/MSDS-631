@@ -95,6 +95,7 @@ Note material Additional does not optional. These are material that will not be 
  * Day 9:
    * AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AutoEncoders.ipynb)   
    * Variational AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/VAE.ipynb)   
+   * GANS [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANS.ipynb)   
    
  
  
