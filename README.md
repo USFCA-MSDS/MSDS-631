@@ -92,6 +92,10 @@ Note material Additional does not optional. These are material that will not be 
  * Day 8:
    * Random Variable Generation (and how to generate samples from known distributions) [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/RandomVariableGeneration.ipynb)
    * Quiz questions [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/interview/exam_questions.txt)
+ * Day 9:
+   * AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AutoEncoders.ipynb)   
+   * Variational AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/VAE.ipynb)   
+   
  
  
 Additional
