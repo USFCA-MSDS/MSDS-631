@@ -94,7 +94,8 @@ Note material Additional does not optional. These are material that will not be 
    * Quiz questions [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/interview/exam_questions.txt)
  * Day 9:
    * AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AutoEncoders.ipynb)   
-   * Variational AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/VAE.ipynb)   
+   * Variational AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/VAE.ipynb)
+   * AE and VAE [lecture note](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AE.pdf)   
    * GANS [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANS.ipynb)   
    
  
