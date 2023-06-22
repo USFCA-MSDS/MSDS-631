@@ -86,7 +86,7 @@ Note material Additional does not optional. These are material that will not be 
 
 * Day 7:
   * Review Cross Entropy in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)  
-  * Lecture 6 Introduction to LLM [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_large_language_models.pdf)
+  * Lecture 7 Introduction to LLM [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_large_language_models.pdf)
   * HOW RLHF works [article](https://www.interconnects.ai/p/how-rlhf-works)
   * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb)
  
@@ -96,7 +96,7 @@ Note material Additional does not optional. These are material that will not be 
  * Day 9:
    * AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AutoEncoders.ipynb)   
    * Variational AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/VAE.ipynb)
-   * AE and VAE [lecture note](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AE.pdf)   
+   * Lecture 9 AE and VAE [lecture note](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AE.pdf)   
    * GANS [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANS.ipynb)   
    
  
