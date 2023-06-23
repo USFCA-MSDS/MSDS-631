@@ -103,7 +103,7 @@ Note material Additional does not optional. These are material that will not be 
    * NF [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_NF.ipynb) 
    * NF Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/NF.pdf)
    * GANS [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANS(2).ipynb)  
-   * GANS Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANS.pdf)   
+   * GANS Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANs.pdf)   
    
  
  
