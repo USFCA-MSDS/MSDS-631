@@ -96,7 +96,10 @@ Note material Additional does not optional. These are material that will not be 
  * Day 9:
    * AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AutoEncoders.ipynb)   
    * Variational AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/VAE.ipynb)
-   * Lecture 9 AE and VAE [lecture note](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AE.pdf)   
+   * Lecture 9 AE and VAE [lecture note](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AE.pdf)
+  
+ * Day 10 
+   * NF [blog](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
    * GANS [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANS.ipynb)   
    
  
