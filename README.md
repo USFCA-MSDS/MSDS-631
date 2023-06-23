@@ -100,8 +100,9 @@ Note material Additional does not optional. These are material that will not be 
   
  * Day 10 
    * NF [blog](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
-   * GANS [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANS(2).ipynb)   
-   * NF Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/NF.pdf)   
+   * NF [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_NF.ipynb) 
+   * NF Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/NF.pdf)
+   * GANS [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANS(2).ipynb)  
    * GANS Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANS.pdf)   
    
  
