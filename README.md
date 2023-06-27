@@ -106,7 +106,11 @@ Note material Additional does not optional. These are material that will not be 
    * GANS [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANS%20(2).ipynb)  
    * GANS Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANs.pdf)
    * GANS [blog](https://gwern.net/gan)
-   
+  
+ * Day 11
+   * Graph Neural Networks (GNNs) Lecture [PDF]()  
+   * GNN Tutorial [notebook](https://colab.research.google.com/drive/14OvFnAXggxB8vM4e8vSURUp1TaKnovzX?usp=sharing)
+
  
  
 Additional
