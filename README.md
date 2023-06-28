@@ -110,6 +110,7 @@ Note material Additional does not optional. These are material that will not be 
  * Day 11
    * Graph Neural Networks (GNNs) Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GNN.pdf)
    * Minimal GCN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/miniml_GCN.ipynb)
+   * Minimal graph attention network [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/minimal_graph_attention_network.ipynb)
    * GNN Tutorial [notebook](https://colab.research.google.com/drive/14OvFnAXggxB8vM4e8vSURUp1TaKnovzX?usp=sharing)
 
  
