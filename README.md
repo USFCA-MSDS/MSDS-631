@@ -115,6 +115,7 @@ Note material Additional does not optional. These are material that will not be 
  
 Additional
   * Common loss functions in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/common_loss_functions_in_pytorch.ipynb)
+  * A note on right multiplication in GCN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Note_on_GCN.ipynb)
   
 # Quiz (Total 4 %)
 In class quiz on June 16.
