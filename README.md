@@ -108,7 +108,8 @@ Note material Additional does not optional. These are material that will not be 
    * GANS [blog](https://gwern.net/gan)
   
  * Day 11
-   * Graph Neural Networks (GNNs) Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GNN.pdf)  
+   * Graph Neural Networks (GNNs) Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GNN.pdf)
+   * Minimal GCN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/miniml_GCN.ipynb)
    * GNN Tutorial [notebook](https://colab.research.google.com/drive/14OvFnAXggxB8vM4e8vSURUp1TaKnovzX?usp=sharing)
 
  
