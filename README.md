@@ -115,7 +115,8 @@ Note material Additional does not optional. These are material that will not be 
  * Day 12
    * Lecture 12 [PDF]()
    *  DDQN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DDQN.ipynb)  
-   *  DQL [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQN.ipynb)  
+   *  DQL [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQN.ipynb)
+   *  DQL [paper](https://daiwk.github.io/assets/dqn.pdf)
    
 
  
