@@ -112,6 +112,11 @@ Note material Additional does not optional. These are material that will not be 
    * Minimal GCN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/miniml_GCN.ipynb)
    * Minimal graph attention network [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/minimal_graph_attention_network.ipynb)
    * GNN Tutorial [notebook](https://colab.research.google.com/drive/14OvFnAXggxB8vM4e8vSURUp1TaKnovzX?usp=sharing)
+ * Day 12
+   * Lecture 12 [PDF]()
+   *  DDQN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DDQN.ipynb)  
+   *  DQL [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQN.ipynb)  
+   
 
  
  
