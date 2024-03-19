@@ -16,8 +16,6 @@ should have a solid theoerical and practical foundation of deep learning
 
 # Class details
 INSTRUCTOR. Mustafa Hajij.
-Class dates : May 22, 2023 - Jun 30, 2023	
-Lectures are Tuesday and Friday between 10am and 12pm 	
 San Francisco-101 Howard 155
 
 INSTRUCTION FORMAT. Class runs for 1:50 hours 2 day/week. Instructor-student interaction during lecture is encouraged and we'll mix in mini-exercises, final project and attendance. All programming will be done in the Python 3 programming language, unless otherwise specified.
@@ -127,7 +125,7 @@ Additional
 
   
 # Quiz (Total 4 %)
-In class quiz on June 16.
+In class quiz.
 
 # Attendance and particupation (Total 6 %)
 
