@@ -129,10 +129,15 @@ In class quiz.
 
 # HWs (Total 40 %)
 
+HW1  (Due 13th of April)
+HW2  (Due 20th of April)
+HW3  (Due 27th of April)
+HW4  (Due 4th of May)
+
 
 # Final Project (Total 50%)
 
-## Task 1: The Project Proposal, Data Selection, and Data Description (Total 5%)
+## Task 1: The Project Proposal, Data Selection, and Data Description (Total 5%) (Due 13th of April)
 
 The Project Proposal, Data Selection, and Description component hold a weightage of 5% in determining your final course grade. This stage of the project requires you to submit a well-structured project proposal that encompasses several key elements:
 
@@ -146,7 +151,7 @@ Selecting appropriate data is crucial for the success of your project. You shoul
 ### Data Description: 
 Provide a comprehensive description of the data you will be working with. This includes information about the data format, size, attributes, and any inherent challenges or limitations associated with the data. Clearly state how the selected data aligns with your project objectives.
 
-## Task 2: Jupyter notebook and Medium Post (Total 35%)
+## Task 2: Jupyter notebook and Medium Post (Total 35%) (Due 14th of May)
 
 This project requires you to create a comprehensive and well-structured Jupyter notebook that effectively presents your work. The notebook should include the following components:
 
@@ -167,7 +172,7 @@ Write a Medium post about your project, covering the same topics as the project 
 
 Please ensure that your Jupyter notebook is well-documented and organized, making it easy for others to understand and reproduce your work. The total grade for the project is out of 30% of your final course grade.
 
-## Task 3: Recorded presentation (10%) (Due 30th of June)
+## Task 3: Recorded presentation (10%) (Due 14th of May)
 
 The recorded presentation contributes 10% to your overall course grade. You will be required to deliver a presentation, recorded in video format, where you showcase and explain your project, including its objectives, methodology, results, and conclusions. This should not exceed 10 minutes and should be presented by all team members.​
 
