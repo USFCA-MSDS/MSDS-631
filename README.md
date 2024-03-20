@@ -117,8 +117,6 @@ Note material Additional does not optional. These are material that will not be 
    *  DQL [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.ipynb)
    *  DQL [paper](https://daiwk.github.io/assets/dqn.pdf)
    
-
- 
  
 Additional
   * Common loss functions in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/common_loss_functions_in_pytorch.ipynb)
@@ -129,12 +127,7 @@ In class quiz.
 
 # Attendance and particupation (Total 6 %)
 
-# Homeworks (Total 40 %)
-
-* HW1 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW1)
-* HW2 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW2) 
-* HW3 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW3)  
-* HW4 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW4) 
+# HWs (Total 40 %)
 
 
 # Final Project (Total 50%)
@@ -153,7 +146,7 @@ Selecting appropriate data is crucial for the success of your project. You shoul
 ### Data Description: 
 Provide a comprehensive description of the data you will be working with. This includes information about the data format, size, attributes, and any inherent challenges or limitations associated with the data. Clearly state how the selected data aligns with your project objectives.
 
-## Task 2: Jupyter notebook and Medium Post (Total 30%)
+## Task 2: Jupyter notebook and Medium Post (Total 35%)
 
 This project requires you to create a comprehensive and well-structured Jupyter notebook that effectively presents your work. The notebook should include the following components:
 
@@ -169,7 +162,7 @@ Provide a clear description of the methodologies used in your project. Explain t
 ### Experiments and Results (10%)
 Present the experiments conducted during your project and report the obtained results. Include relevant performance metrics, accuracy scores, loss curves, or any other measurements used to evaluate your model's performance. Use tables, graphs, or visualizations to effectively communicate your experimental findings.
 
-### Medium Post (5%)
+### Medium Post (10%)
 Write a Medium post about your project, covering the same topics as the project proposal but in a more narrative and engaging format. The Medium post should be structured to attract readers and provide them with a clear understanding of your project's objectives, data selection process, and the significance of your work.
 
 Please ensure that your Jupyter notebook is well-documented and organized, making it easy for others to understand and reproduce your work. The total grade for the project is out of 30% of your final course grade.
@@ -206,5 +199,11 @@ Here are 20 project ideas for deep learning:
 
 These project ideas cover a wide range of modern and interesting applications that can be implemented using deep learning techniques. Choose the one that intrigues you the most and embark on your deep learning project!
 
+# Some Interview Questions 
+
+* Interview Questions set 1 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW1)
+* Interview Questions set 2 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW2) 
+* Interview Questions set 3 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW3)  
+* Interview Questions set 4 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW4) 
 
 
