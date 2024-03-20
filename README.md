@@ -129,10 +129,10 @@ In class quiz.
 
 # HWs (Total 40 %)
 
-HW1  (Due 13th of April)
-HW2  (Due 20th of April)
-HW3  (Due 27th of April)
-HW4  (Due 4th of May)
+* HW1  (Due 13th of April)
+* HW2  (Due 20th of April)
+* HW3  (Due 27th of April)
+* HW4  (Due 4th of May)
 
 
 # Final Project (Total 50%)
