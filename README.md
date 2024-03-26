@@ -58,9 +58,11 @@ Note material Additional does not optional. These are material that will not be 
   * A video illustration of the universal approximation theorem of NNs [Youtube](https://www.youtube.com/watch?v=FBpPjjhJGhk)
   * A minimal introduction to automatic differentiation [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_auto_diff_in_pytorch.ipynb)
 * Day 3:
-  *  Lecture 3 Slide [Conv networks](https://github.com/USFCA-MSDS/MSDS-631/blob/main/conv_nets.pdf)  
+  * Lecture 3 Slide [Conv networks](https://github.com/USFCA-MSDS/MSDS-631/blob/main/conv_nets.pdf)  
   * Introduction to conv and pooling layers using Numpy [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_pooling_and_cov_layers_using_numpy.ipynb)
   * An introduction to CNNs [MNIST example](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AlexNet.ipynb) (notebook)
+  * Visualization toolbox for convnets [URL](https://ml4a.github.io/ml4a/visualizing_convnets/)
+  * [Saliency map](https://github.com/sunnynevarekar/pytorch-saliency-maps/blob/master/Saliency_maps_in_pytorch.ipynb)
   * Resnets and inception modules [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/advanced_layers.ipynb)
 * Day 4:
   * HW2 helper [Super res NN](https://github.com/USFCA-MSDS/MSDS-631/blob/main/super_res_nn.pdf)
