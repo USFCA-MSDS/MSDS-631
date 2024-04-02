@@ -65,7 +65,6 @@ Note material Additional does not optional. These are material that will not be 
   * [Saliency map](https://github.com/sunnynevarekar/pytorch-saliency-maps/blob/master/Saliency_maps_in_pytorch.ipynb)
   * Resnets and inception modules [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/advanced_layers.ipynb)
 * Day 4:
-  * HW2 helper [Super res NN](https://github.com/USFCA-MSDS/MSDS-631/blob/main/super_res_nn.pdf)
   * MLE review  [MLE](https://github.com/USFCA-MSDS/MSDS-631/blob/main/PDFs/MaxLike%20Estimation_MLE.pdf)
   * The maximal likelihood estimation [MLE and its relations to other loss functions](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Maximum_likelihood_estimation%20(2).ipynb) (notebook)
   *  Lecture Slide 4 :  [Probabilistic Deep Learning](https://github.com/USFCA-MSDS/MSDS-631/blob/main/P_DL.pdf)
