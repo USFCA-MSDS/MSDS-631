@@ -130,7 +130,7 @@ In class quiz.
 
 # HWs (Total 40 %)
 
-* HW1  (Due 13th of April)
+* [HW1](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW1.ipynb)  (Due 13th of April)
 * HW2  (Due 20th of April)
 * HW3  (Due 27th of April)
 * HW4  (Due 4th of May)
