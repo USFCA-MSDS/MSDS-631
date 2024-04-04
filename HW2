@@ -1,6 +1,0 @@
-#1 What is the purpose of using activation functions in CNNs, and why are they important?
-#2 How does the concept of weight sharing contribute to the effectiveness of CNNs in handling visual data?
-#3 Explain the concept of stride in convolutional layers and its impact on the output size of feature maps.
-#4 What is the role of padding in CNNs, and how does it affect the spatial dimensions of the input?
-#5 What are the advantages of using a pre-trained CNN model for transfer learning compared to training a CNN from scratch?
-#6 Explain what super resolution neural networks are. How to prepare the data for such network? what kind of loss function typically used when training them
