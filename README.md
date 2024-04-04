@@ -205,11 +205,3 @@ Here are 20 project ideas for deep learning:
 
 These project ideas cover a wide range of modern and interesting applications that can be implemented using deep learning techniques. Choose the one that intrigues you the most and embark on your deep learning project!
 
-# Some Interview Questions 
-
-* Interview Questions set 1 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW1)
-* Interview Questions set 2 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW2) 
-* Interview Questions set 3 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW3)  
-* Interview Questions set 4 [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW4) 
-
-
