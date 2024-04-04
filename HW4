@@ -1,7 +1,0 @@
-(1) Explain the purpose and process of dimensionality reduction using Autoencoders. How does an Autoencoder compress and reconstruct high-dimensional data?
-
-(2) Discuss the key components of an Autoencoder architecture and their roles. Provide a brief description of the encoder, decoder, and bottleneck layer in an Autoencoder.
-
-(3) Describe the intuition behind the Kullback-Leibler (KL) loss term in Variational Autoencoders (VAEs).
-
-(4) Compare and contrast Autoencoders (AE) and Variational Autoencoders (VAE) in terms of their key differences and advantages. Discuss how VAEs introduce the concept of latent space regularization compared to traditional AEs.
