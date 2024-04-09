@@ -68,8 +68,8 @@ Note material Additional does not optional. These are material that will not be 
   * MLE review  [MLE](https://github.com/USFCA-MSDS/MSDS-631/blob/main/PDFs/MaxLike%20Estimation_MLE.pdf)
   * The maximal likelihood estimation [MLE and its relations to other loss functions](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Maximum_likelihood_estimation%20(2).ipynb) (notebook)
   * [MLE and Cross Entropy](https://github.com/USFCA-MSDS/MSDS-631/blob/main/NLL_to_Cross_Entropy.ipynb)
-  * [NLL and cross entropy derivation](https://github.com/USFCA-MSDS/MSDS-631/blob/main/NLL_to_Cross_Entropy.ipynb)
-  * [Cross Entrioy and KL divergence](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)
+  * [Cross entropy and KL divergence](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Cross_Entropy_and_KL_Divergence.ipynb)
+  * [MLE cross entropy and KL divergence](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)
   *  Lecture Slide 4 :  [Probabilistic Deep Learning](https://github.com/USFCA-MSDS/MSDS-631/blob/main/P_DL.pdf)
 * Day 5:
   *  Lecture 5 Word2Vec [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/word2vec.pdf)
