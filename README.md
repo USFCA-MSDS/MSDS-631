@@ -129,7 +129,7 @@ Additional
 
   
 # Quiz (Total 4 %)
-In class quiz.
+In class quiz. [Review questions for the quiz](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Review_Questions_Quiz.ipynb)
 
 # Attendance and particupation (Total 6 %)
 
