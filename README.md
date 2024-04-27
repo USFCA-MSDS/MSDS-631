@@ -137,7 +137,7 @@ In class quiz. [Review questions for the quiz](https://github.com/USFCA-MSDS/MSD
 
 * [HW1](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW1.ipynb)  (Due 13th of April)
 * [HW2](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW2.ipynb)  (Due 20th of April)
-* [HW3](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW3.ipynb), you may use this [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/train_transfomer_.ipynb) to help in the HW  (Due 27th of April)
+* [HW3](https://github.com/USFCA-MSDS/MSDS-631/blob/main/HW3-.ipynb), you may use this [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/train_transfomer_.ipynb) to help in the HW  (Due 27th of April)
 * HW4  (Due 4th of May)
 
 
