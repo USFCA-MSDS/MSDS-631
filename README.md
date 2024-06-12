@@ -88,6 +88,7 @@ Note material Additional does not optional. These are material that will not be 
   * Vision Transfomer [pdf](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Vision_transformer.pdf)
   * 3blue1brown [video](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
   * A great blog article about transformers [article](http://jalammar.github.io/illustrated-transformer/)
+  * {Positional Encoder](https://www.youtube.com/watch?v=1biZfFLPRSY&list=PLpZBeKTZRGPOQtbCIES_0hAvwukcs-y-x)
 
 * Day 7:
   * Review Cross Entropy in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)
@@ -95,6 +96,7 @@ Note material Additional does not optional. These are material that will not be 
   * Lecture 7 Introduction to LLM [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_large_language_models.pdf)
   * HOW RLHF works [article](https://www.interconnects.ai/p/how-rlhf-works)
   * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb)
+  * [Lets reproduce GPT2](https://www.youtube.com/watch?v=l8pRSuU81PU&t=13160s)
  
  * Day 8:
    * Random Variable Generation (and how to generate samples from known distributions) [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/RandomVariableGeneration.ipynb)
