@@ -86,9 +86,9 @@ Note material Additional does not optional. These are material that will not be 
   * Bert [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Bert.ipynb)
   * Lecture 6 Transformers [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/transformers.pdf)
   * Vision Transfomer [pdf](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Vision_transformer.pdf)
-  * 3blue1brown [video](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
+  * 3blue1brown pn the transformers [video](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
   * A great blog article about transformers [article](http://jalammar.github.io/illustrated-transformer/)
-  * {Positional Encoder](https://www.youtube.com/watch?v=1biZfFLPRSY&list=PLpZBeKTZRGPOQtbCIES_0hAvwukcs-y-x)
+  * [Positional Encoder](https://www.youtube.com/watch?v=1biZfFLPRSY&list=PLpZBeKTZRGPOQtbCIES_0hAvwukcs-y-x)
 
 * Day 7:
   * Review Cross Entropy in Pytorch [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)
