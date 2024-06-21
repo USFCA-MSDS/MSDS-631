@@ -85,7 +85,7 @@ Note material Additional does not optional. These are material that will not be 
   * Transformers [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Transformers.ipynb)
   * Bert [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Bert.ipynb)
   * Lecture 6 Transformers [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/transformers.pdf)
-  * Vision Transfomer [pdf](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Vision_transformer.pdf)
+  * Vision Transfomer [pdf](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Vision_transformer.pdf) [ViT github](https://github.com/lucidrains/vit-pytorch)
   * 3blue1brown pn the transformers [video](https://www.youtube.com/watch?v=wjZofJX0v4M&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=5)
   * A great blog article about transformers [article](http://jalammar.github.io/illustrated-transformer/)
   * [Lilian Weng blog article about attention](https://lilianweng.github.io/posts/2018-06-24-attention/)
