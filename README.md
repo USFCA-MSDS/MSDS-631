@@ -71,7 +71,7 @@ Note material Additional does not optional. These are material that will not be 
   * [Cross entropy and KL divergence](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Cross_Entropy_and_KL_Divergence.ipynb)
   * [MLE cross entropy and KL divergence](https://github.com/USFCA-MSDS/MSDS-631/blob/main/CrossEntropyLoss_.ipynb)
   *  Lecture Slide 4 :  [Probabilistic Deep Learning](https://github.com/USFCA-MSDS/MSDS-631/blob/main/P_DL.pdf)
-  *  [Mixture density networks](https://github.com/tonyduan/mixture-density-network/tree/master)
+  *  [Mixture density networks](https://github.com/tonyduan/mixture-density-network/tree/master) [PDL application in finance](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Mixure_density_networks.ipynb)
 * Day 5:
   *  Lecture 5 Word2Vec [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/word2vec.pdf)
   *  [Word2Vec Tutorial](https://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
