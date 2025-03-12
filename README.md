@@ -102,30 +102,13 @@ Note material Additional does not optional. These are material that will not be 
   * HOW RLHF works [article](https://www.interconnects.ai/p/how-rlhf-works)
   * GPT [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GPT.ipynb)
   * [Lets reproduce GPT2](https://www.youtube.com/watch?v=l8pRSuU81PU&t=13160s)
- 
- * Day 8:
-   * Random Variable Generation (and how to generate samples from known distributions) [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/RandomVariableGeneration.ipynb)
-   * Quiz questions [file](https://github.com/USFCA-MSDS/MSDS-631/blob/main/interview/exam_questions.txt)
- * Day 9:
-   * AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AutoEncoders.ipynb)   
-   * Variational AutoEncoders [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/VAE.ipynb)
-   * Lecture 9 AE and VAE [lecture note](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AE.pdf)
   
- * Day 10 
-   * NF [blog](https://lilianweng.github.io/posts/2018-10-13-flow-models/)
-   * NF [blog2](https://gebob19.github.io/normalizing-flows/)
-   * NF [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_NF.ipynb) 
-   * NF Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/NF.pdf)
-   * GANS [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANS%20(2).ipynb)  
-   * GANS Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GANs.pdf)
-   * GANS [blog](https://gwern.net/gan)
-  
- * Day 11
+ * Day 8
    * Graph Neural Networks (GNNs) Lecture [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/GNN.pdf)
    * Minimal GCN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/miniml_GCN.ipynb)
    * Minimal graph attention network [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/minimal_graph_attention_network.ipynb)
    * GNN Tutorial [notebook](https://colab.research.google.com/drive/14OvFnAXggxB8vM4e8vSURUp1TaKnovzX?usp=sharing)
- * Day 12
+ * Day 9
    * Lecture 12 [PDF](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.pdf)
    *  DDQN [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DDQN.ipynb)  
    *  DQL [notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/DQL.ipynb)
