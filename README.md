@@ -62,6 +62,7 @@ Note material Additional does not optional. These are material that will not be 
   * Introduction to conv and pooling layers using Numpy [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/Introduction_to_pooling_and_cov_layers_using_numpy.ipynb)
   * An introduction to CNNs [MNIST example](https://github.com/USFCA-MSDS/MSDS-631/blob/main/AlexNet.ipynb) (notebook)
   * Visualization toolbox for convnets [URL1](https://ml4a.github.io/ml4a/visualizing_convnets/) [URL2](https://yosinski.com/deepvis)
+  * The manifold hypothesis [YouTube][https://www.youtube.com/watch?v=pdNYw6qwuNc]
   * [Saliency map](https://github.com/sunnynevarekar/pytorch-saliency-maps/blob/master/Saliency_maps_in_pytorch.ipynb)
   * Resnets and inception modules [Notebook](https://github.com/USFCA-MSDS/MSDS-631/blob/main/advanced_layers.ipynb)
 * Day 4:
