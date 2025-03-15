@@ -1,4 +1,4 @@
-# MSDS-631
+# MSDS-634 : Deep Learning for AI
 Deep learning is a sub-field of machine learning that focuses on learning complex, hierarchical
 feature representations from raw data. Over the past decade, deep learning has been remarkably
 successful at solving a massive set of problems on data types including images and sequential data.
